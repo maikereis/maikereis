@@ -36,8 +36,6 @@ Aqui usamos:
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </a>
 
-<br>
-<br>
 
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=XxKavosxX&show_icons=true&theme=cobalt)
 

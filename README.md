@@ -53,6 +53,6 @@ O que tenho feito:
 <br>
 <br>
 
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=XxKavosxX&show_icons=true&theme=cobalt)
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=maikereis&show_icons=true&theme=cobalt)
 
 

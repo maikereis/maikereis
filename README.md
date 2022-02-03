@@ -55,4 +55,4 @@ O que tenho feito:
 
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=maikereis&show_icons=true&theme=cobalt)
 
-
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=maikereis&theme=blue-green)

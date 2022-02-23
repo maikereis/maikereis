@@ -3,13 +3,12 @@
 ### Olá, eu sou o Maike!
 
 [PT-BR]
-<br>
-Bacharel em Engenharia Elétrica pela UFPA, gosto de programar e pôr a mão na massa! Meu interesse em Sistemas embarcados, IoT (internet das coisas) me trouxeram ao mundo dos dados. Atualmente estudo Ciência de Dados, Machine Learning e MLOps.
-<br>
-<br>
+
+Bacharel em Engenharia Elétrica pela UFPA, gosto de programar e pôr a mão na massa! Meu interesse em Sistemas embarcados, IoT (internet das coisas) me trouxeram ao mundo dos dados. Atualmente estudo Ciência de Dados, Machine Learning e MLOps. Meu plano malígno é um dia utilizar todo o conhecimento adquirido durante essa jornada para criar serviços utilizando ML e IoT.
+
 [EN-US]
-<br>
-Bachelor in Electrical Engineering from UFPA, I like to program and get my hands dirty! My interest in Embedded Systems, IoT (Internet of Things) brought me to the world of data. I am currently studying Data Science, Machine Learning and MLOps.
+
+Bacharel em Engenharia Elétrica pela UFPA, gosto de programar e pôr a mão na massa! Meu interesse em Sistemas embarcados, IoT (internet das coisas) me trouxeram ao mundo dos dados. Atualmente estudo Ciência de Dados, Machine Learning e MLOps. Meu plano malígno é um dia utilizar todo o conhecimento adquirido durante essa jornada para criar serviços utilizando ML e IoT.
 
 <br>
 <br>
@@ -25,6 +24,11 @@ Bachelor in Electrical Engineering from UFPA, I like to program and get my hands
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
+<a href = "https://medium.com/@maikerdralcantara" > 
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+
+
 <br>
 <br>
 
@@ -33,11 +37,19 @@ Por aqui usamos:
 <br>
 
 <a href = "" > 
+  <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
+</a>
+
+<a href = "" > 
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </a>
 
 <a href = "" > 
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+</a>
+
+<a href = "" > 
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
 </a>
 
 
@@ -54,6 +66,8 @@ Por aqui usamos:
 </a>
 
 
+
+
 <br>
 <br>
 O que tenho feito:
@@ -63,3 +77,5 @@ O que tenho feito:
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=maikereis&show_icons=true&theme=cobalt)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=maikereis&theme=blue-green)
+
+

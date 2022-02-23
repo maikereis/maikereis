@@ -1,8 +1,15 @@
 <img align="center" alt="GIF" src="https://media.giphy.com/media/TRklv98Fvo0Tu/giphy.gif?cid=ecf05e47ay9e2lmav68g0nhz572g8t9jo25t4zupzwqtsh6j&rid=giphy.gif&ct=g" width="500" height="160" />
 
-### Olá, eu sou o Rodrigo!
+### Olá, eu sou o Maike!
+
+[PT-BR]
 <br>
-Bacharel em Engenharia Elétrica pela UFPA, minha áreas de interesse são Sistemas embarcados, IoT (internet das coisas), Análise de Dados e Data Science.
+Bacharel em Engenharia Elétrica pela UFPA, gosto de programar e pôr a mão na massa! Meu interesse em Sistemas embarcados, IoT (internet das coisas) me trouxeram ao mundo dos dados. Atualmente estudo Ciência de Dados, Machine Learning e MLOps.
+<br>
+<br>
+[EN-US]
+<br>
+Bachelor in Electrical Engineering from UFPA, I like to program and get my hands dirty! My interest in Embedded Systems, IoT (Internet of Things) brought me to the world of data. I am currently studying Data Science, Machine Learning and MLOps.
 
 <br>
 <br>

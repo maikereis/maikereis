@@ -10,11 +10,7 @@ Bacharel em Engenharia Elétrica pela UFPA, gosto de programar e pôr a mão na 
 
 Bacharel em Engenharia Elétrica pela UFPA, gosto de programar e pôr a mão na massa! Meu interesse em Sistemas embarcados, IoT (internet das coisas) me trouxeram ao mundo dos dados. Atualmente estudo Ciência de Dados, Machine Learning e MLOps. Meu plano malígno é um dia utilizar todo o conhecimento adquirido durante essa jornada para criar serviços utilizando ML e IoT.
 
-<br>
-<br>
-📫 Você pode me econtrar aqui:
-<br>
-<br>
+📫 Minhas redes:<br>
 
 <a href = "https://www.linkedin.com/in/maikereis/" > 
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -29,12 +25,8 @@ Bacharel em Engenharia Elétrica pela UFPA, gosto de programar e pôr a mão na 
 </a>
 
 
-<br>
-<br>
 
-Por aqui usamos:
-<br>
-<br>
+Ferramentas que costumo usar:<br>
 
 <a href = "" > 
   <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
@@ -57,7 +49,7 @@ Por aqui usamos:
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
 </a>
 
-<a href = "" > 
+<a href = "https://github.com/maikereis" > 
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 </a>
 
